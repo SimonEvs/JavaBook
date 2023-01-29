@@ -1,3 +1,6 @@
+import Person;
+
+package ClassesAndOOP;
 public class N8AbstarctClass {
     public static void main(String[] args) {
         // Кроме обычных классов в Java есть абстрактные классы. Абстрактный класс похож
